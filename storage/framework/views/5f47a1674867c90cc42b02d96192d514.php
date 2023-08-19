@@ -1,0 +1,1 @@
+Hello!!<?php /**PATH C:\laragon\www\Project1\resources\views/login.blade.php ENDPATH**/ ?>
